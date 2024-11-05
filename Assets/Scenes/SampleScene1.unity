@@ -3672,7 +3672,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adddf512fc031d94d94068a9bf50f0cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  facemanager: {fileID: 0}
+  facemanager: {fileID: 894832464}
   faceMaterials:
   - {fileID: 2100000, guid: 71ec7b397b957ef439cb500b422a8ae4, type: 2}
   - {fileID: 2100000, guid: 4ca6ebfc66ca99b4a86b918ef5b56c4d, type: 2}
